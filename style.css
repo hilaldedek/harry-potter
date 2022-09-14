@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+body{
+    background-color: black;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+#photo1:hover{
+    transform: scale(1.05);
+    transition: all 1s ;
+}
+#photo2:hover{
+    transform: scale(1.08);
+    transition: all 1s;
+}
+#photo3:hover{
+    transform: scale(1.08);
+    transition: all 1s;
+}
+#photo4:hover{
+    transform: scale(1.08);
+    transition: all 1s;
+}
+#map{
+    margin: 5rem auto 5rem;
+    height: 25rem;
+}
+#header{
+    font-family: 'Cinzel', serif;
+    font-size: 3rem;
+    color:chartreuse;
+
+}
+#header1{
+    font-family: 'Cinzel', serif;
+}
+#building{
+    font-family: 'Cinzel', serif;
+    font-size: 1.5rem;
+}
+#building1{
+    font-size: 1.3rem;
+}
+#teacher:hover{
+    transform: scale(1.05);
+    transition: all 1s ;
+}
+#footer:hover{
+    transform: scale(1.1);
+    color: chartreuse;
+    transition: all 1.5s ease-in-out;
+}
+#color{
+    color: chartreuse;
+    font-family: 'Cinzel', serif;
+    font-size: 1.2rem;
+}
